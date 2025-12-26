@@ -4,4 +4,4 @@ services:
   web:
     image: "ignismeow/notes-app:latest"
     ports:
-      - "8000:8000
+      - "8000:8000"
